@@ -1,7 +1,7 @@
 # MobileSafe
 手机安全卫士
 
-# 项目知识点
+# Day01项目知识点
 1. 项目包的管理
 2. HttpUrlConnection访问网络
 3. Json的解析
